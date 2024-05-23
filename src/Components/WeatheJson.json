@@ -1,0 +1,47 @@
+{
+    "coord": {
+        "lon": 79.4167,
+        "lat": 28.35
+    },
+    "weather": [
+        {
+            "id": 500,
+            "main": "Rain",
+            "description": "light rain",
+            "icon": "10d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 29.66,
+        "feels_like": 28.83,
+        "temp_min": 29.66,
+        "temp_max": 29.66,
+        "pressure": 1009,
+        "humidity": 35,
+        "sea_level": 1009,
+        "grnd_level": 989
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 4.02,
+        "deg": 119,
+        "gust": 4.28
+    },
+    "rain": {
+        "1h": 0.14
+    },
+    "clouds": {
+        "all": 100
+    },
+    "dt": 1682825968,
+    "sys": {
+        "country": "IN",
+        "sunrise": 1682812994,
+        "sunset": 1682860548
+    },
+    "timezone": 19800,
+    "id": 1277013,
+    "name": "Bareilly",
+    "cod": 200
+}
