@@ -49,7 +49,7 @@ const Card = () => {
 
     useEffect(() => {
         getWeather();
-        document?.title =getData?.name+" in "+getWM;
+        document.title =getData.name+" in "+getWM;
     }, []);
 
     // date Object 
